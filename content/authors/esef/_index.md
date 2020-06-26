@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Erdoğan Aydın
+title: Esef Berfu Şentürk
 
 # Username (this should match the folder name)
 authors:
-- admin
+- esef
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Proffesor  Electrical and Electronics Engineering Faculty 
+role:  Electrical and Electronics Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD 
-    institution: Yıldız Technical University
-    year: 20**
+  - course: B.S 
+    institution: Istanbul Medeniyet University
+    year: 2020
 
 
 # Social/Academic Networking
@@ -42,7 +42,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=ke0NbGYAAAAJ
+  link: https://scholar.google.co.uk/citations?user=
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,5 +59,5 @@ user_groups:
 - Visitors
 ---
 
-Erdoğan Aydın is a associate professor of Electrical and Electronics Engineering at the Istanbul Medeniyet University. His research interests include embedded systems, digital signal processing and, wireless communication theory. He leads the IMCOMLAB research group at Istanbul Medeniyet University.
+
 

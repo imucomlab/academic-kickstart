@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Erdoğan Aydın
+title: Anıl Gürses
 
 # Username (this should match the folder name)
 authors:
-- admin
+- anil
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Proffesor  Electrical and Electronics Engineering Faculty 
+role:  Junior Year Electrical and Electronics Engineer Student
 
 # Organizations/Affiliations
 organizations:
@@ -24,12 +24,13 @@ interests:
 - Signal Processing
 - Modulation Theory
 - Wireless Communication
+- Deep Learning
 
 education:
   courses:
-  - course: PhD 
-    institution: Yıldız Technical University
-    year: 20**
+  - course: B.S 
+    institution: Istanbul Medeniyet University
+    year: 2021
 
 
 # Social/Academic Networking
@@ -39,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:anilgurses@ieee.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=ke0NbGYAAAAJ
+  link: https://scholar.google.co.uk/citations?user=rkDTDH8AAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,5 +60,5 @@ user_groups:
 - Visitors
 ---
 
-Erdoğan Aydın is a associate professor of Electrical and Electronics Engineering at the Istanbul Medeniyet University. His research interests include embedded systems, digital signal processing and, wireless communication theory. He leads the IMCOMLAB research group at Istanbul Medeniyet University.
+
 
