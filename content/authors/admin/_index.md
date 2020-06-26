@@ -24,7 +24,7 @@ interests:
 - MIMO systems
 - Cooperative Communication and diversity
 - Index Modulation
-- Spatial Modulation,
+- Spatial Modulation
 - Media Based Modulation
 - Hexagonal Constellations
 - Non-Orthogonal Multiple Access
