@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Digital Signal Processing
 
-interests:
+interests T:
 - MIMO systems
 - Cooperative Communication and diversity
 - Index Modulation
