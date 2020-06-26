@@ -30,6 +30,12 @@ education:
   - course: PhD 
     institution: Yıldız Technical University
     year: 20**
+  - course: Master 
+    institution: Yıldız Technical University
+    year: 20**
+  - course: B.S 
+    institution: Yıldız Technical University
+    year: 20**
 
 
 # Social/Academic Networking
@@ -39,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:erdogan.aydin@medeniyet.edu.tr'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=ke0NbGYAAAAJ
