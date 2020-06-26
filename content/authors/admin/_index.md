@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Head of Lab
 ---
 
 Erdoğan Aydın is a associate professor of Electrical and Electronics Engineering at the Istanbul Medeniyet University. His research interests include embedded systems, digital signal processing and, wireless communication theory. He leads the IMCOMLAB research group at Istanbul Medeniyet University.
