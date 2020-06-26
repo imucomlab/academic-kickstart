@@ -56,7 +56,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 Erdoğan Aydın is a associate professor of Electrical and Electronics Engineering at the Istanbul Medeniyet University. His research interests include embedded systems, digital signal processing and, wireless communication theory. He leads the IMCOMLAB research group at Istanbul Medeniyet University.
