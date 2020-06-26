@@ -97,7 +97,7 @@ address = {street = "Dumlupınar D100 Karayolu No:98 İstanbul Medeniyet Üniver
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.5948", longitude = "29.0356"}
+coordinates = {latitude = "40.996869", longitude = "29.065563"}
 
 # Directions for visitors to locate you.
 directions = "H Blok"
