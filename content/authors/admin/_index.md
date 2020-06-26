@@ -49,7 +49,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=ke0NbGYAAAAJ
-  - icon: researchgate
+- icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Erdogan_Aydin
 # Link to a PDF of your resume/CV from the About widget.
