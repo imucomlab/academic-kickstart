@@ -1,14 +1,30 @@
 <!doctype html>
 <html lang="en-us">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Content Manager | Academic</title>
-  <!-- Include Netlify Identity for authentication. -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Manager | Academic</title>
+    <!-- Include Netlify Identity for authentication. -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
+
 <body>
-<!-- Include the latest Netlify CMS v2.x.x script that builds the admin panel. -->
-<script src="https://cdn.jsdelivr.net/npm/netlify-cms@2/dist/netlify-cms.min.js"></script>
+    <!-- Include the latest Netlify CMS v2.x.x script that builds the admin panel. -->
+    <script src="https://cdn.jsdelivr.net/npm/netlify-cms@2/dist/netlify-cms.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170944203-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-170944203-1');
+    </script>
+
 </body>
+
 </html>
