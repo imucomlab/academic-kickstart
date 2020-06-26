@@ -5,7 +5,7 @@ publishDate: 2020-06-26T15:05:25.960439Z
 authors: ["E. Aydın", "H. Ilhan"]
 publication_types: ["2"]
 abstract: " Test "
-featured: false
+featured: true
 publication: "*IEEE Communications Letters"
 ---
 
