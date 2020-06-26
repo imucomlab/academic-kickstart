@@ -67,5 +67,7 @@ user_groups:
 - Head of Lab
 ---
 
-Erdoğan Aydın is a associate professor of Electrical and Electronics Engineering at the Istanbul Medeniyet University. His research interests include embedded systems, digital signal processing and, wireless communication theory. He leads the IMCOMLAB research group at Istanbul Medeniyet University.
+Erdogan Aydin was born in Turkey. He received the B.S. with high honors and the M.S. degrees from Istanbul University, Istanbul, Turkey, in 2007 and 2010, respectively, and the Ph.D. degree from Yıldız Technical University, Istanbul, Turkey, in 2016. He is currently an Assistant Professor  with the Department of Electronics and Communication Engineering, Istanbul Medeniyet University, Istanbul, Turkey. His primary research interests include  MIMO systems, cooperative communication and diversity, index modulation, spatial modulation, media based modulation, hexagonal constellations, non-orthogonal multiple access, visible light communication, chaos communication, statistical signal processing, and estimation theory. He has received best paper award including one from the IEEE International Conference on Communications 2018. He has served as a TPC member for several IEEE conferences. Dr. Aydin currently serves as a Review Editor of the Frontiers in Communications and Networks.
+
+He leads the IMCOMLAB research group at Istanbul Medeniyet University.
 
