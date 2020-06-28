@@ -2,8 +2,7 @@ widget = "blank"
 headless = true  # This file represents a page section.
 active = true
 
-# ... Put Your Section Options Here (title etc.) ...
-
+weight = 10
 
 title = "Lab Toos"
 
