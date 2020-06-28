@@ -37,13 +37,13 @@ education:
   courses:
   - course: PhD 
     institution: Yıldız Technical University
-    year: 20**
+    year: 2016
   - course: Master 
-    institution: Yıldız Technical University
-    year: 20**
+    institution: Istanbul University
+    year: 2010
   - course: B.S 
-    institution: Yıldız Technical University
-    year: 20**
+    institution: Istanbul University
+    year: 2007
 
 
 # Social/Academic Networking
