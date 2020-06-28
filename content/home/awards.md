@@ -19,6 +19,11 @@ title = "Professional Activities"
 * 2016: TUBITAK Yurt ici Doktora Bursu
 * 2007: B.Sc. Degree with High Honors, Istanbul University
 
+## UNIVERSITY SERVICE
+
+* Head of Department, _Astronautical Engineering Department, Istanbul Medeniyet University: 2017-…_
+* Deputy Chairperson, _Electrical & Electronics Engineering Department, Istanbul Medeniyet University: 2017-…_
+
 ## SUPERVISED THESES
 
 * F. Cogen, "_Design and Performance Analysis of Diversity Schemes for Spatial Modulation with Index Modulation_," M.Sc, Istanbul Medeniyet University, 2020. 
@@ -29,6 +34,7 @@ title = "Professional Activities"
 ## PROFESSIONAL ACTIVITIES
 ### Editor Service 
 * Review Editor, Frontiers in Communications and Networks, 2020-…
+
 
 ### Reviewer Service
 * _IEEE Transactions on Vehicular Technology_
