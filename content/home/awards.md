@@ -51,12 +51,17 @@ title = "Professional Activities"
 * _IEEE Communications Letters_
 * _IEEE Journal on Selected Topics in In Signal Processing_
 * _IET Electronics Letters_
+* _IET Communications_
 * _IET Signal Processing_
 * _AEÜ – International Journal of Electronics and Communications (Elsevier)_
 * _Wiley International Journal of Communication Systems_
 * _Physical Communication (Elsevier)_
 * _Turkish Journal of Electrical Engineering \& Computer Sciences_
+* _Electrica_
+*  _Uludağ University Journal of The Faculty of Engineering_
 
 ### Technical Program Committee (TPC) – Member
-* 2020 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC’20), Istanbul, Turkey, May. 2020.
+* 2020 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC’20), London, UK., May. 2020.
 * 2019 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC’19), Istanbul, Turkey, Sep. 2019.
+* 2019 IEEE Middle East & North Africa Communications Conference (MENACOMM), Manama, Bahrain. 
+*  2019 Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT), Sep. 2019
