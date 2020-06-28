@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[J1] Journal 1
+
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
