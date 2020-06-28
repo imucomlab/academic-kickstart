@@ -28,7 +28,7 @@ title = "Professional Activities"
 
 * 2017-...: _Asst. Prof. Dr., Istanbul Medeniyet University._
 * 2016-2017: _Asst. Prof. Dr., Maltepe University._
-* 2007-2016: _Research Asst., Kadir Has University._
+* 2007-2016: _Research Asst., Maltepe University._
 
 
 ## SUPERVISED THESES
