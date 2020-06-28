@@ -71,7 +71,7 @@ subtitle = ""
 
 * [J-05] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Generalized Code Index Modulation and Spatial Modulation for High Rate and Energy Efficient MIMO Systems on Rayleigh Block-Fading Channel," _IEEE Systems Journal_, vol. 1, no. 1, pp. 1-8, 2020.
 
-* [J-04] **E. Aydin**, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2018.
+* [J-04] **E. Aydin**, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2019.
 
 * [J-03] N. Kabaoglu, E. Erdogan, **E. Aydin**, "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
 
@@ -79,7 +79,7 @@ subtitle = ""
 
 ## **Journal Papers (Other)**
 
-* [J-01] **E. Aydin** And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
+* [J-01] **E. Aydin** E. Aydin "EDAS/COAS Based Antenna Selection for Code Index Modulation Aided Spatial Modulation," _Electrica_ , vol.19, pp.113-119, 2019.
 
 ## **International Conference Papers**
 
@@ -87,7 +87,12 @@ subtitle = ""
 
 ## **National Conference Papers**
 
-* [C-01] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
+* [C-06] **E. Aydin**,  H. Ilhan “Relay Selection with Threshold Value for DF Based Cooperative Systems,” _IEEE 23th Signal Processing and Communications Applications Conference_ (SİU-2015), Malatya/Turkey, pp. 1309-1314, May 16-19, 2014.
+* [C-05] **E. Aydin**,  H. Ilhan and Ö. Özdemir, “ Antenna Selection for Decode and Forward Based MIMO Cooperative Networks,” _IEEE 22th Signal Processing and Communications Applications Conference_ (SİU-2014), Trabzon/Turkey, pp. 433-436, Apr. 23-24, 2014.
+* [C-04] **E. Aydin**,  H. Ilhan and Ö. Özdemir, “ SNR-Based Antenna Selection with Threshold Value in Wireless Channels,” _IEEE 21th Signal Processing and Communications Applications Conference_ (SİU-2013), Girne/Kıbrıs, pp. 1-4, Apr. 24-26, 2013.
+* [C-03] **E. Aydın**,  Z. B. Güven and D. Akbayır,  “Speech Recognition Using Artificial Neural Networks,” _6th Engineering and Technology Symposium_, Çankaya University,  Çankaya/ Ankara , Apr. 25-26, 2013
+* [C-02] G. Çam,  **E. Aydın** and N. Kabaoğlu, “An Expectation-Maximization Type Receiver for Uplink of a Hopping System with Time Sharing,” _IEEE 17th Signal Processing and Communications Applications Conference_, (SIU-2009), pp. 185 – 188, Antalya, 9-11 Apr. 2009.
+* [C-01] **E. Aydın**, G. Çam and N. Kabaoğlu “Time Sharing Hopped Communication in MC-CDMA Systems,” _(ELECO 2008), Electrical and Electronics Engineering_, sayfa 147-151, Bursa, 26-30 Nov., 2008.
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
