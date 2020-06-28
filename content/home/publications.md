@@ -77,13 +77,18 @@ subtitle = ""
 
 * [J-02] **E. Aydin** And H. Ilhan, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
-## **Journal Papers (Other)**
+## **Journal Papers** (Other)
 
 * [J-01] **E. Aydin** E. Aydin "EDAS/COAS Based Antenna Selection for Code Index Modulation Aided Spatial Modulation," _Electrica_ , vol.19, pp.113-119, 2019.
 
 ## **International Conference Papers**
 
-* [C-02] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
+* [C-16] F. Cogen and **E. Aydin**, “Hexagonal Quadrature Amplitude Modulation Aided Spatial Modulation,” _11th International Conference on Electrical and Electronics Engineering (ELECO 2019)_, pp. 1-4, 28-30 Dec., 2019.
+* [C-15] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Code Index Modulation and Spatial Modulation: A New High Rate and Energy Efficient Scheme for MIMO systems," _41st International Conference on Telecommunications and Signal Processing (TSP)_, Athens, Greece, pp. 1-4, July 4-6, 2018.
+* [C-14] **E. Aydin** and  H. Ilhan, “SNR-based Relay Selection Scheme with Threshold Value for Cooperative Relay Networks,” _IEEE 11th International Wireless Communications and Mobile Computing Conference (IWCMC 2015)_, pp. 448-453, Aug. 24-27, 2015.
+* [C-13] **E. Aydin**,  H. İlhan and Ö. Özdemir, “SNR-based Antenna Selection Schemes for Cooperative Relay Networks in Wireless Channels,” _IEEE Wireless Communications and Networking Conference (WCNC 2014)_, pp. 1309–1314, 2014.
+* [C-12] **E. Aydin** and  H. A. Çirpan, “Bayesian-Based Iterative Blind Joint Data Detection, Code  Delay and Channel Estimation for DS-CDMA systems in Multipath Environment,” _IEEE 7th International Wireless Communications and Mobile Computing Conference (IWCMC 2011)_, pp. 1413–1417, July 5-8, 2011.
+* [C-11] **E. Aydin** and  H. A. Çirpan, “SMC-Based Iterative Joint MUD Data Detection, Code Delay and Multipath Estimation in DS-CDMA Systems,” _7th International Conference on Electrical and Electronics Engineering (ELECO 2011)_, pp. II-274 - II-278, 1-4 Dec., 2011.
 
 ## **National Conference Papers**
 
