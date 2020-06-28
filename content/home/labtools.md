@@ -3,7 +3,7 @@ widget = "blank"
 headless = true  # This file represents a page section.
 active = true
 
-weight = 10
+weight = 60
 
 title = "Lab Tools"
 
