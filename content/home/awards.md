@@ -43,3 +43,7 @@ title = "Professional Activities"
 * _Wiley International Journal of Communication Systems_
 * _Physical Communication (Elsevier)_
 * _Turkish Journal of Electrical Engineering \& Computer Sciences_
+
+### Technical Program Committee (TPC) – Member
+* 2020 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC’20), Istanbul, Turkey, May. 2020.
+* 2019 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC’19), Istanbul, Turkey, Sep. 2019.
