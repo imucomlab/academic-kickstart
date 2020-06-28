@@ -84,7 +84,7 @@ subtitle = ""
 ## **International Conference Papers**
 
 * [C-16] F. Cogen and **E. Aydin**, “Hexagonal Quadrature Amplitude Modulation Aided Spatial Modulation,” _11th International Conference on Electrical and Electronics Engineering (ELECO 2019)_, pp. 1-4, 28-30 Dec., 2019.
-* [C-15] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Code Index Modulation and Spatial Modulation: A New High Rate and Energy Efficient Scheme for MIMO systems," _41st International Conference on Telecommunications and Signal Processing (TSP)_, Athens, Greece, pp. 1-4, July 4-6, 2018.
+* [C-15] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Code Index Modulation and Spatial Modulation: A New High Rate and Energy Efficient Scheme for MIMO systems," _41st International Conference on Telecommunications and Signal Processing (TSP)_, Athens, Greece, pp. 1-4, July 4-6, 2018. . (Best Paper Award)
 * [C-14] **E. Aydin** and  H. Ilhan, “SNR-based Relay Selection Scheme with Threshold Value for Cooperative Relay Networks,” _IEEE 11th International Wireless Communications and Mobile Computing Conference (IWCMC 2015)_, pp. 448-453, Aug. 24-27, 2015.
 * [C-13] **E. Aydin**,  H. İlhan and Ö. Özdemir, “SNR-based Antenna Selection Schemes for Cooperative Relay Networks in Wireless Channels,” _IEEE Wireless Communications and Networking Conference (WCNC 2014)_, pp. 1309–1314, 2014.
 * [C-12] **E. Aydin** and  H. A. Çirpan, “Bayesian-Based Iterative Blind Joint Data Detection, Code  Delay and Channel Estimation for DS-CDMA systems in Multipath Environment,” _IEEE 7th International Wireless Communications and Mobile Computing Conference (IWCMC 2011)_, pp. 1413–1417, July 5-8, 2011.
@@ -102,6 +102,9 @@ subtitle = ""
 * [C-03] **E. Aydın**,  Z. B. Güven and D. Akbayır,  “Speech Recognition Using Artificial Neural Networks,” _6th Engineering and Technology Symposium_, Çankaya University,  Çankaya/ Ankara , Apr. 25-26, 2013
 * [C-02] G. Çam,  **E. Aydın** and N. Kabaoğlu, “An Expectation-Maximization Type Receiver for Uplink of a Hopping System with Time Sharing,” _IEEE 17th Signal Processing and Communications Applications Conference_, (SIU-2009), pp. 185 – 188, Antalya, 9-11 Apr. 2009.
 * [C-01] **E. Aydın**, G. Çam and N. Kabaoğlu “Time Sharing Hopped Communication in MC-CDMA Systems,” _(ELECO 2008), Electrical and Electronics Engineering_, sayfa 147-151, Bursa, 26-30 Nov., 2008.
+
+### COPYRIGHT NOTICE FOR ALL IEEE PUBLICATIONS
+_Copyright © IEEE. Personal use of this material is permitted. However, permission to use this material for any other purposes must be obtained from the IEEE by sending a request to pubs-permissions@ieee.org._
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
