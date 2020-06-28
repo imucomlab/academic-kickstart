@@ -4,7 +4,6 @@ headless = true  # This file represents a page section.
 active = true
 
 weight = 20
-
 title = "Lab Tools"
 
 [design]
@@ -14,12 +13,5 @@ title = "Lab Tools"
 # This is title header
 ## This is a test header
 
-Test writing
-
-Bold with **asterisks**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough with ~~two tildes~~.
 
 +++
