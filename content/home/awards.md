@@ -24,6 +24,13 @@ title = "Professional Activities"
 * Head of Department, _Astronautical Engineering Department, Istanbul Medeniyet University: 2017-…_
 * Deputy Chairperson, _Electrical & Electronics Engineering Department, Istanbul Medeniyet University: 2017-…_
 
+## WORK EXPERIENCE
+
+* 2017-...: _Asst. Prof. Dr., Istanbul Medeniyet University._
+* 2016-2017: _Asst. Prof. Dr., Maltepe University._
+* 2007-2016: _Research Asst., Kadir Has University._
+
+
 ## SUPERVISED THESES
 
 * F. Cogen, "_Design and Performance Analysis of Diversity Schemes for Spatial Modulation with Index Modulation_," M.Sc, Istanbul Medeniyet University, 2020. 
