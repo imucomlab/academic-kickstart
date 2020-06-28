@@ -75,5 +75,14 @@ subtitle = ""
  css_class = ""
 +++
 
-## 1. Scientific Research Projects of Istanbul Medeniyet University -  BAP 1054
-_"Spatial Modulation Based High Performance Relay Systems_ 2014-2016."
+## 3. Scientific Research Projects of Istanbul Medeniyet University -  BAP
+_"A novel MIMO scheme based on code-index modulation and spatial modulation"_
+Principal Investigator, Budget: 15.000 TL, 2014-2016.
+
+## 2. The Scientific and Technological Research Council of Turkey (TÜBİTAK)
+_"İşbirlikli Röleli Sistemlerde Karmaşıklık Azaltıcı Yöntemler ve Hata Başarım Analizleri"_
+Researcher, Budget: 142.000 TL, 2013-2016.
+
+## 1. Scientific Research Projects of Yildiz Technical University -  DOP
+_"Spatial Modulation Based High Performance Relay Systems"_
+Researcher, Budget: 15.000 TL, 2014-2016.
