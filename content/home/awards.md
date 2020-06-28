@@ -26,6 +26,9 @@ Strikethrough with ~~two tildes~~.
 * First item
 * Another item
 
+1. First item
+2. Another item
+
 $$\gamma_{n} = \frac{ 
 \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
