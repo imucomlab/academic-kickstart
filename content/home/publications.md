@@ -67,17 +67,17 @@ subtitle = ""
  css_class = ""
 +++
 
-## Journal Papers (SCI/SCI-E)
+## *JOURNAL PAPERS* (SCI/SCI-E)
 
-* [J-04] E. Aydin, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2018.
+* [J-04] *E. Aydin*, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2018.
 
-* [J-03] N. Kabaoglu, E. Erdogan, E. Aydin. , "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
+* [J-03] N. Kabaoglu, E. Erdogan, *E. Aydin*. , "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
 
-* [J-02] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
+* [J-02] *E. Aydin* And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
 ## Journal Papers (Other)
 
-* [J-01] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
+* [J-01] *E. Aydin* And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
 ## International Conference Papers
 
