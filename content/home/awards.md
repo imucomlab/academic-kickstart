@@ -3,7 +3,7 @@ widget = "blank"
 headless = true  # This file represents a page section.
 active = true
 
-weight = 20
+weight = 30
 title = "Awards"
 
 [design]
@@ -13,7 +13,7 @@ title = "Awards"
 +++
 
 
-## Test Tools
+## Test Tools
 
 Italics with _underscores_.
 
