@@ -87,7 +87,11 @@ subtitle = ""
 
 ## **National Conference Papers**
 
-* [C-06] **E. Aydin**,  H. Ilhan “Relay Selection with Threshold Value for DF Based Cooperative Systems,” _IEEE 23th Signal Processing and Communications Applications Conference_ (SİU-2015), Malatya/Turkey, pp. 1309-1314, May 16-19, 2014.
+* [C-10] F. Cogen, **E. Aydın**, “Performance Analysis of HQAM Based Spatial Modulation over Nakagami-m Fading Channels,” _IEEE 28th Signal Processing and Communications Applications Conference_, Şanlıurfa/Turkey, pp. 1-4, 2020.
+* [C-09] **E. Aydın**, F. Cogen, “Two-Way Code Index Modulation,” _IEEE 27th Signal Processing and Communications Applications Conference_, Sivas/Turkey, pp. 1-4, Apr. 24-26, 2019.
+* [C-08] **E. Aydın**, “Euclidean Distance Based Antenna Selection for Cooperative Spatial Modulation,” _(ELECO 2018), Electrical and Electronics Engineering_, sayfa 1-4, Bursa, 26-30 Nov., 2018.
+* [C-07] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan, “A Novel MIMO Scheme Based on Code-Index Modulation and Spatial Modulation,” _IEEE 26th Signal Processing and Communications Applications Conference_, Izmir/Turkey, pp. 1-4, May 2-4, 2018.
+* [C-06] **E. Aydin**,  H. Ilhan “Relay Selection with Threshold Value for DF Based Cooperative Systems,” _IEEE 23th Signal Processing and Communications Applications Conference_ (SİU-2015), Malatya/Turkey, pp. 1309-1314, May 16-19, 2015.
 * [C-05] **E. Aydin**,  H. Ilhan and Ö. Özdemir, “ Antenna Selection for Decode and Forward Based MIMO Cooperative Networks,” _IEEE 22th Signal Processing and Communications Applications Conference_ (SİU-2014), Trabzon/Turkey, pp. 433-436, Apr. 23-24, 2014.
 * [C-04] **E. Aydin**,  H. Ilhan and Ö. Özdemir, “ SNR-Based Antenna Selection with Threshold Value in Wireless Channels,” _IEEE 21th Signal Processing and Communications Applications Conference_ (SİU-2013), Girne/Kıbrıs, pp. 1-4, Apr. 24-26, 2013.
 * [C-03] **E. Aydın**,  Z. B. Güven and D. Akbayır,  “Speech Recognition Using Artificial Neural Networks,” _6th Engineering and Technology Symposium_, Çankaya University,  Çankaya/ Ankara , Apr. 25-26, 2013
