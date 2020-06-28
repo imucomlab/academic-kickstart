@@ -3,17 +3,17 @@ widget = "blank"
 headless = true  # This file represents a page section.
 active = true
 
-weight = 20
+weight = 30
 title = "Awards"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 +++
 
 
-## Test Tools
+## Test Tools
 
 Italics with _underscores_.
 
