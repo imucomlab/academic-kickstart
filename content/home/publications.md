@@ -68,9 +68,11 @@ subtitle = ""
 +++
 
 
-* [J2] N. Kabaoglu, E. Erdogan, E. Aydin. , "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
+* [J-03] E. Aydin, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _WIEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2018.
 
-* [J1] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, pp.244-247, 2016.
+* [J-02] N. Kabaoglu, E. Erdogan, E. Aydin. , "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
+
+* [J-01] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
