@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## **JOURNAL PAPERS** (SCI/SCI-E)
+## **Journal Papers** (SCI/SCI-E)
 
 * [J-04] **E. Aydin**, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2018.
 
@@ -75,15 +75,15 @@ subtitle = ""
 
 * [J-02] **E. Aydin** And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
-## Journal Papers (Other)
+## **Journal Papers (Other)**
 
 * [J-01] **E. Aydin** And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
-## International Conference Papers
+## **I**nternational Conference Papers**
 
 * [C-02] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
-## National Conference Papers
+## **National Conference Papers**
 
 * [C-01] E. Aydin And H. İLHAN, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
