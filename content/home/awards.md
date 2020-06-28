@@ -30,3 +30,16 @@ title = "Professional Activities"
 ### Editor Service 
 * Review Editor, Frontiers in Communications and Networks, 2020-…
 
+### Reviewer Service
+* _IEEE Transactions on Vehicular Technology_
+* _IEEE Transactions on Communications_
+* _IEEE Transactions on Wireless Communications_
+* _IEEE Wireless Communications Letters_
+* _IEEE Communications Letters_
+* _IEEE Journal on Selected Topics in In Signal Processing_
+* _IET Electronics Letters_
+* _IET Signal Processing_
+* _AEÜ – International Journal of Electronics and Communications (Elsevier)_
+* _Wiley International Journal of Communication Systems_
+* _Physical Communication (Elsevier)_
+* _Turkish Journal of Electrical Engineering \& Computer Sciences_
