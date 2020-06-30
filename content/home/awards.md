@@ -44,12 +44,13 @@ title = "Professional Activities"
 
 
 ### Reviewer Service
+* _IEEE Journal on Selected Topics in In Signal Processing_
 * _IEEE Transactions on Vehicular Technology_
 * _IEEE Transactions on Communications_
 * _IEEE Transactions on Wireless Communications_
 * _IEEE Wireless Communications Letters_
 * _IEEE Communications Letters_
-* _IEEE Journal on Selected Topics in In Signal Processing_
+* _IEEE Access_
 * _IET Electronics Letters_
 * _IET Communications_
 * _IET Signal Processing_
