@@ -31,7 +31,7 @@ interests:
 - Visible Light Communication
 - Chaos Communication
 - Statistical Signal processing
-- Eestimation Theory
+- Estimation Theory
 
 education:
   courses:
