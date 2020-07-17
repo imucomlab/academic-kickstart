@@ -3,7 +3,7 @@ widget = "blank"
 headless = true  # This file represents a page section.
 active = true
 
-weight = 30
+weight = 68
 title = "Professional Activities"
 
 [design]
