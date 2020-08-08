@@ -84,7 +84,7 @@ subtitle = ""
 
 ## **International Conference Papers**
 
-* [C-17] Ü. Duman and **E. Aydin**, “IOT Based Baby Cradle System with Real Time Data Tracking,” _15th International Conference on Computer Science and Engineering (UBMK’20)_, pp. 1-6, 9-11 Sep., 2020.
+* [C-17] Ü. Duman and **E. Aydin**, “IOT Based Baby Cradle System with Real Time Data Tracking,” _5th International Conference on Computer Science and Engineering (UBMK’20)_, pp. 1-6, 9-11 Sep., 2020.
 * [C-16] F. Cogen and **E. Aydin**, “Hexagonal Quadrature Amplitude Modulation Aided Spatial Modulation,” _11th International Conference on Electrical and Electronics Engineering (ELECO 2019)_, pp. 1-4, 28-30 Dec., 2019.
 * [C-15] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Code Index Modulation and Spatial Modulation: A New High Rate and Energy Efficient Scheme for MIMO systems," _41st International Conference on Telecommunications and Signal Processing (TSP)_, Athens, Greece, pp. 1-4, July 4-6, 2018. **_(Best Paper Award)_**
 * [C-14] **E. Aydin** and  H. Ilhan, “SNR-based Relay Selection Scheme with Threshold Value for Cooperative Relay Networks,” _IEEE 11th International Wireless Communications and Mobile Computing Conference (IWCMC 2015)_, pp. 448-453, Aug. 24-27, 2015.
