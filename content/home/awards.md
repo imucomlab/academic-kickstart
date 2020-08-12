@@ -37,7 +37,7 @@ title = "Professional Activities"
 * F. Hayir, "_Design and Performance Analysis of Spatial Modulation with Index Modulation for Free Space Optical Communication Scheme_," M.Sc, Istanbul Medeniyet University, 2020. 
 * C. Arslan, "_Novel Quadrature Spatial Modulation Techniques For Optical MIMO Communication Systems_," M.Sc, Istanbul Medeniyet University, 2020. 
 * E. Talbu, "_Code Index Modulation Based Cooperative Spatial Modulation_," M.Sc, Maltepe University, 2019. 
-* F. Ocak, "_Telekomünikasyon sektörü arıza tesis ve bakım işlerinde iş sağlığı ve güvenliği uygulamaları_," M.Sc, Istanbul Medeniyet University, 2019. 
+* F. Ocak, "_Telekomünikasyon Sektörü Arıza Tesis ve Bakım İşlerinde İş Sağlığı ve Güvenliği Uygulamaları_," M.Sc, Istanbul Medeniyet University, 2019. 
 
 ## PROFESSIONAL ACTIVITIES
 ### Editor Service 
