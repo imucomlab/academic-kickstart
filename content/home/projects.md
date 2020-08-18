@@ -77,6 +77,7 @@ subtitle = ""
 
 ## 4) The Scientific and Technological Research Council of Turkey (TÜBİTAK)
 _"Medya Tabanlı Modülasyonun SDR Üzerinde Gerçeklenmesi"_ 
+
 **Principal Investigator**, 2020-2021.
 
 ## 3) Scientific Research Projects of Istanbul Medeniyet University -  BAP
