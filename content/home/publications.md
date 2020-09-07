@@ -68,17 +68,19 @@ subtitle = ""
 +++
 
 ## **Journal Papers** (SCI/SCI-E)
-* [J-06] **E. Aydin**, E. Basar, H. Ilhan, N. Kabaoglu,  "C-MRC Based Cooperative Spatial Modulation with Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-8, 2020.
+* [J-07] **E. Aydin**, E. Basar, H. Ilhan, N. Kabaoglu,  "C-MRC Based Cooperative Spatial Modulation with Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-8, 2020.
 
-* [J-05] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Generalized Code Index Modulation and Spatial Modulation for High Rate and Energy Efficient MIMO Systems on Rayleigh Block-Fading Channel," _IEEE Systems Journal_, vol. 1, no. 1, pp. 1-8, 2020.
+* [J-06] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Generalized Code Index Modulation and Spatial Modulation for High Rate and Energy Efficient MIMO Systems on Rayleigh Block-Fading Channel," _IEEE Systems Journal_, vol. 1, no. 1, pp. 1-8, 2020.
 
-* [J-04] **E. Aydin**, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2019.
+* [J-05] **E. Aydin**, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2019.
 
-* [J-03] N. Kabaoglu, E. Erdogan, **E. Aydin**, "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
+* [J-04] N. Kabaoglu, E. Erdogan, **E. Aydin**, "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
 
-* [J-02] **E. Aydin** And H. Ilhan, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
+* [J-03] **E. Aydin** And H. Ilhan, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
 ## **Journal Papers** (Other)
+
+* [J-02] B. Onal, F. Cogen, **E. Aydin** E. Aydin "Differential Chaos Shift Keying Assisted Media-Based Modulation," _Electrica_ , 2020.
 
 * [J-01] **E. Aydin** E. Aydin "EDAS/COAS Based Antenna Selection for Code Index Modulation Aided Spatial Modulation," _Electrica_ , vol.19, pp.113-119, 2019.
 
