@@ -64,6 +64,8 @@ title = "Professional Activities"
 *  _Uludağ University Journal of The Faculty of Engineering_
 
 ### Technical Program Committee (TPC) – Member
+
+*  2020 International Conference on Data Analytics for Business and Industry, Sep. 2020
 *  2020 Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT), Sep. 2020
 * 2020 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC’20), London, UK., May. 2020.
 * 2019 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC’19), Istanbul, Turkey, Sep. 2019.
