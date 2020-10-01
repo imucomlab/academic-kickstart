@@ -68,6 +68,9 @@ subtitle = ""
 +++
 
 ## **Journal Papers** (SCI/SCI-E)
+
+* [J-08] F. Cogen, **E. Aydin**,  "Cooperative Quadrature Spatial Modulation with Euclidean Distance and Capacity Optimized Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-16, 2020.
+
 * [J-07] **E. Aydin**, E. Basar, H. Ilhan, N. Kabaoglu,  "C-MRC Based Cooperative Spatial Modulation with Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-8, 2020.
 
 * [J-06] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Generalized Code Index Modulation and Spatial Modulation for High Rate and Energy Efficient MIMO Systems on Rayleigh Block-Fading Channel," _IEEE Systems Journal_, vol. 1, no. 1, pp. 1-8, 2020.
