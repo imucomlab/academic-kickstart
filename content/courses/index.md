@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Dersler
 summary: Derslere aıt izlenceler asagıdadır.
 
 reading_time: false  # Show estimated reading time?
@@ -8,10 +8,6 @@ share: false  # Show social sharing links?
 
 ---
 
-# Dersler 
+{{< staticref "rastgele/" >}}Rastgele Degişkenler ve Stokastik süreçler{{< /staticref >}}.
 
-## Rastgele Degişkenler ve Stokastik süreçler
-Dersin izlencesı {{< staticref "rastgele/" >}}Ders sıtesı{{< /staticref >}}.
-
-## Sinyal
-Dersin izlencesı {{< staticref "sinyal/" >}}Ders sıtesı{{< /staticref >}}.
+{{< staticref "sinyal/" >}}Sinyal{{< /staticref >}}.
