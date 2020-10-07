@@ -8,10 +8,13 @@ share: false  # Show social sharing links?
 
 ---
 
-## Derse ait onemlı noktalar
-1. First item
+## Ders Akısı
+1. {{< staticref "rastgelehafta1/" >}}Hafta 1{{< /staticref >}}
 2. Another item
 
+
+
+{{< figure library="true" src="image.jpg" title="Dersten kesıt" >}}
 
 Burası {{< hl >}}onemlı{{< /hl >}}.
 
