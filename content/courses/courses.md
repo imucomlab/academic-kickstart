@@ -1,5 +1,5 @@
 title: Courses
-summary: Here we describe how to add a page to your site.
+summary: Derslere aıt izlenceler asagıdadır.
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,8 +14,7 @@ title = "Courses"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 
-
-+++
+---
 
 # Dersler 
 
