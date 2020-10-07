@@ -11,6 +11,5 @@ share: false  # Show social sharing links?
 
 # Dersler 
 
-
 ## Rastgele Degişkenler ve Stokastik süreçler
-Dersin izlencesı {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Dersin izlencesı {{< staticref "rastgele/" >}}Ders sıtesı{{< /staticref >}}.
