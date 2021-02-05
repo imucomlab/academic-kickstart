@@ -52,6 +52,7 @@ title = "Professional Activities"
 * _IEEE Wireless Communications Letters_
 * _IEEE Communications Letters_
 * _IEEE Access_
+* _Vehicular Communications_
 * _IET Electronics Letters_
 * _IET Communications_
 * _IET Signal Processing_
