@@ -59,6 +59,7 @@ title = "Professional Activities"
 * _AEÜ – International Journal of Electronics and Communications (Elsevier)_
 * _Wiley International Journal of Communication Systems_
 * _Physical Communication (Elsevier)_
+* _China Communications_
 * _SN Applied Sciences (Springer)_
 * _Turkish Journal of Electrical Engineering \& Computer Sciences_
 * _Electrica_
