@@ -24,6 +24,7 @@ interests:
 - MIMO systems
 - Cooperative Communication and diversity
 - Index Modulation
+- Reconfigurable Intelligent Surfaces
 - Spatial Modulation
 - Media Based Modulation
 - Hexagonal Constellations
