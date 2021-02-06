@@ -57,10 +57,12 @@ social:
   link: 'mailto:erdogan.aydin@medeniyet.edu.tr'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=ke0NbGYAAAAJ
+  link: https://scholar.google.com.tr/citations?user=ke0NbGYAAAAJ&hl=tr
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Erdogan_Aydin
+  icon_pack: ai
+  link: https://publons.com/researcher/3987937/erdogan-aydin/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
