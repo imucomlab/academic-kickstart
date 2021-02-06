@@ -21,8 +21,9 @@ title = "Professional Activities"
 
 ## UNIVERSITY SERVICE
 
-* Head of Department, _Astronautical Engineering Department, Istanbul Medeniyet University: 2017-…_
-* Deputy Chairperson, _Electrical & Electronics Engineering Department, Istanbul Medeniyet University: 2017-…_
+* Vice Dean, _Faculty of Engineering and Natural Sciences: 2021-…_
+* Head of Department, _Astronautical Engineering Department, Istanbul Medeniyet University: 2017-2020._
+* Deputy Chairperson, _Electrical & Electronics Engineering Department, Istanbul Medeniyet University.: 2017-…_
 
 ## WORK EXPERIENCE
 
