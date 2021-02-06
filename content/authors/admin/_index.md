@@ -15,6 +15,8 @@ role: Assistant Proffesor  Electrical and Electronics Engineering Faculty
 
 # Organizations/Affiliations
 organizations:
+- name: Electrical and Electronics Engineering Department
+  url: "https://avesis.medeniyet.edu.tr/erdogan.aydin"
 - name: Istanbul Medeniyet University
   url: "https://avesis.medeniyet.edu.tr/erdogan.aydin"
 
