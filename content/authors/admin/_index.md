@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Erdoğan Aydın
-
+  url: "https://avesis.medeniyet.edu.tr/erdogan.aydin"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -11,12 +11,12 @@ superuser: true
 
 # Role/position
 role: Assistant Proffesor  Electrical and Electronics Engineering Faculty
- url: "https://avesis.medeniyet.edu.tr/erdogan.aydin" 
 
 # Organizations/Affiliations
 organizations:
-- name: Electrical and Electronics Engineering Department
+- name: Istanbul Medeniyet University
   url: "https://avesis.medeniyet.edu.tr/erdogan.aydin"
+
 # Short bio (displayed in user profile at end of posts)
 bio: Digital Signal Processing
 
