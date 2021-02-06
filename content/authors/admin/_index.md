@@ -67,6 +67,12 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/56/10125.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5198-0980
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=35101396100
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
