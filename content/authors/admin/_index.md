@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Proffesor  Electrical and Electronics Engineering Faculty 
+role: Assistant Proffesor  Electrical and Electronics Engineering Faculty
+ url: "https://avesis.medeniyet.edu.tr/erdogan.aydin" 
 
 # Organizations/Affiliations
 organizations:
