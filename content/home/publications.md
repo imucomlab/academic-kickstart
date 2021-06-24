@@ -73,6 +73,8 @@ subtitle = ""
 
 ## **Journal Papers** (SCI/SCI-E)
 
+* [J-10] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _IEEE Communications Letters_, 2021.
+
 * [J-09] F. Cogen, **E. Aydin**,  "Cooperative Quadrature Spatial Modulation with Euclidean Distance and Capacity Optimized Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-16, 2020.
 
 * [J-08] **E. Aydin**, E. Basar, H. Ilhan, N. Kabaoglu,  "C-MRC Based Cooperative Spatial Modulation with Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-8, 2020.
