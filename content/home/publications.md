@@ -73,6 +73,8 @@ subtitle = ""
 
 ## **Journal Papers** (SCI/SCI-E)
 
+* [J-11] F. Cogen, **E. Aydin**,  "Performance Analysis of Hexagonal QAM Constellations on Quadrature Spatial Modulation with Perfect and Imperfect Channel Estimation," _IPHYSICAL COMMUNICATION_, vol. 1, no. 1, pp. 1-30, 2021.
+
 * [J-10] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _IEEE Communications Letters_, 2021.
 
 * [J-09] F. Cogen, **E. Aydin**,  "Cooperative Quadrature Spatial Modulation with Euclidean Distance and Capacity Optimized Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-16, 2020.
