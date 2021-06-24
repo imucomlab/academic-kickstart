@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Erdoğan Aydın
-  url: "https://avesis.medeniyet.edu.tr/erdogan.aydin"
+url: "https://avesis.medeniyet.edu.tr/erdogan.aydin"
 # Username (this should match the folder name)
 authors:
 - admin
