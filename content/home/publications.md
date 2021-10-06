@@ -73,6 +73,8 @@ subtitle = ""
 
 ## **Journal Papers** (SCI/SCI-E)
 
+* [J-12] **E. Aydin**,  "A New Hexagonal Quadrature Amplitude Modulation Aided Media-Based Modulation," _International Journal of Communication Systems_, e4994, pp. 1-20, 2021.
+
 * [J-11] F. Cogen, **E. Aydin**,  "Performance Analysis of Hexagonal QAM Constellations on Quadrature Spatial Modulation with Perfect and Imperfect Channel Estimation," _IPHYSICAL COMMUNICATION_, vol. 1, no. 1, pp. 1-30, 2021.
 
 * [J-10] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _IEEE Communications Letters_, 2021.
