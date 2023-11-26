@@ -74,21 +74,23 @@ subtitle = ""
 
 ## **Journal Papers** (SCI/SCI-E)
 
-* [J-12] **E. Aydin**,  "A New Hexagonal Quadrature Amplitude Modulation Aided Media-Based Modulation," _International Journal of Communication Systems_, e4994, pp. 1-20, 2021.
+* [J-13] B. A. Ozden, **E. Aydin**, and F. Cogen, "Code Index Modulation aided Spatial Media Based Modulation System for Future Wireless Networks," _IEEE System Journal_, vol. 17, no. 3, pp. 3762-3770, 2023.
 
-* [J-11] F. Cogen, **E. Aydin**,  "Performance Analysis of Hexagonal QAM Constellations on Quadrature Spatial Modulation with Perfect and Imperfect Channel Estimation," _IPHYSICAL COMMUNICATION_, vol. 1, no. 1, pp. 1-30, 2021.
+* [J-12] **E. Aydin**,  "A New Hexagonal Quadrature Amplitude Modulation Aided Media-Based Modulation," _International Journal of Communication Systems_,vol. 34, no. 17, pp. 1-20, Nov. 2021.
 
-* [J-10] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _IEEE Communications Letters_, 2021.
+* [J-11] F. Cogen, **E. Aydin**,  "Performance Analysis of Hexagonal QAM Constellations on Quadrature Spatial Modulation with Perfect and Imperfect Channel Estimation," _IPHYSICAL COMMUNICATION_, vol. 47, no. 1, pp. 101379, Aug. 2021.
 
-* [J-09] F. Cogen, **E. Aydin**,  "Cooperative Quadrature Spatial Modulation with Euclidean Distance and Capacity Optimized Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-16, 2020.
+* [J-10] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _IEEE Communications Letters_,  vol. 25, no. 7, pp. 2309 - 2313, Jul. 2021
 
-* [J-08] **E. Aydin**, E. Basar, H. Ilhan, N. Kabaoglu,  "C-MRC Based Cooperative Spatial Modulation with Antenna Selection," _International Journal of Communication Systems_, vol. 1, no. 1, pp. 1-8, 2020.
+* [J-09] F. Cogen, **E. Aydin**,  "Cooperative Quadrature Spatial Modulation with Euclidean Distance and Capacity Optimized Antenna Selection," _International Journal of Communication Systems_, vol. 33, no. 17, pp. 1-18, Nov., 2021.
 
-* [J-07] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Generalized Code Index Modulation and Spatial Modulation for High Rate and Energy Efficient MIMO Systems on Rayleigh Block-Fading Channel," _IEEE Systems Journal_, vol. 1, no. 1, pp. 1-8, 2020.
+* [J-08] **E. Aydin**, E. Basar, H. Ilhan, N. Kabaoglu,  "C-MRC Based Cooperative Spatial Modulation with Antenna Selection," _International Journal of Communication Systems_, vol. 33, no. 17, pp. 1-18, Nov., 2020.
+
+* [J-07] F. Cogen, **E. Aydin**, N. Kabaoglu, E. Basar, H. Ilhan,  "Generalized Code Index Modulation and Spatial Modulation for High Rate and Energy Efficient MIMO Systems on Rayleigh Block-Fading Channel," _IEEE Systems Journal_, vol. 15, no. 1, pp. 538 - 545, March  2021.
 
 * [J-06] **E. Aydin**, F. Cogen, E. Basar,  "Code-Index Modulation Aided Quadrature Spatial Modulation for High-Rate MIMO Systems," _IEEE Transactions On Vehicular Technology_, vol. 68, no. 10, pp. 10257-10261,  July, 2019.
 
-* [J-05] N. Kabaoglu, E. Erdogan, **E. Aydin**, "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, 2018.
+* [J-05] N. Kabaoglu, E. Erdogan, **E. Aydin**, "Iterative Receiver with Low Complexity for Downlink Multicarrier Communications over Rapidly Time-Varying Channels," _Wireless Communications & Mobile Computing_, vol. 2018, pp.1-11, 2018.
 
 * [J-04] **E. Aydin** And H. Ilhan, "A Novel SM-Based MIMO System With Index Modulation," _IEEE Communications Letters_, vol.20, no. 2, pp.244-247, Feb. 2016.
 
