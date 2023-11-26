@@ -42,7 +42,7 @@ title = "Professional Activities"
 
 ## PROFESSIONAL ACTIVITIES
 ### Editor Service 
-* Review Editor, Frontiers in Communications and Networks, 2020-…
+* Review Editor, Frontiers in Communications and Networks, 2020-…*
 
 
 ### Reviewer Service
@@ -56,7 +56,7 @@ title = "Professional Activities"
 * _Vehicular Communications_
 * _IET Electronics Letters_
 * _IET Communications_
-* _IET Signal Processing_
+* _IET Signal Processing
 * _AEÜ – International Journal of Electronics and Communications (Elsevier)_
 * _Wiley International Journal of Communication Systems_
 * _Physical Communication (Elsevier)_
