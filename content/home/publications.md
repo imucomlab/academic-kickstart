@@ -74,7 +74,13 @@ subtitle = ""
 
 ## **Journal Papers** (SCI/SCI-E)
 
-* [J-13] B. A. Ozden, **E. Aydin**, and F. Cogen, "Code Index Modulation aided Spatial Media Based Modulation System for Future Wireless Networks," _IEEE System Journal_, vol. 17, no. 3, pp. 3762-3770, 2023.
+* [J-16] B. A. Ozden, **E. Aydin**, F. Cogen, "`Reconfigurable Intelligent Surface Aided Spatial Media-Based Modulation," _IEEE Transactions on Green Communications and Networking_, vol. 7, no. 4, pp.1971-1980, 2023.
+
+* [J-15] B. A. Ozden, , F. Cogen, **E. Aydin** "Mirror Activation Pattern Selection for Energy Efficient Hexagonal QAM Aided Media-Based Modulation," _Transactions on Emerging Telecommunications Technologies_, vol. 34, no. 7, pp. e4795, 2023.
+
+* [J-14] B. Sagir, **E. Aydin**, H. Ilhan, "Deep-Learning Assisted IoT Based RIS for Cooperative Communications," _IEEE Internet of Things Journal_, vol. 10, no. 12, pp. 10471-10483, 2023.
+
+* [J-13] B. A. Ozden, **E. Aydin**, F. Cogen, "Code Index Modulation aided Spatial Media Based Modulation System for Future Wireless Networks," _IEEE System Journal_, vol. 17, no. 3, pp. 3762-3770, 2023.
 
 * [J-12] **E. Aydin**,  "A New Hexagonal Quadrature Amplitude Modulation Aided Media-Based Modulation," _International Journal of Communication Systems_,vol. 34, no. 17, pp. 1-20, Nov. 2021.
 
