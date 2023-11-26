@@ -68,8 +68,9 @@ subtitle = ""
 +++
 
 ## **Preprints**
-
 * [P-01] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _arXiv:2101.09340_, 2021..
+
+* [P-02]  **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _arXiv:2101.09340_, 2021..
 
 ## **Journal Papers** (SCI/SCI-E)
 
