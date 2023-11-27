@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: Director, Erdoğan Aydın
+title: Director
 
 # Username (this should match the folder name)
 authors:
