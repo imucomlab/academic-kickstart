@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anıl Gürses
+title: Burak Ahmet ÖZDEN
 
 # Username (this should match the folder name)
 authors:

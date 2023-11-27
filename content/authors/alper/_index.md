@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alper Tunca
+title: Fatih ÇOGEN
 
 # Username (this should match the folder name)
 authors:
