@@ -10,7 +10,7 @@
   
 [[main]]
   name = "Director"
-  url = "director/about"
+  url = "director/people"
   weight = 70
 
 [[main]]
