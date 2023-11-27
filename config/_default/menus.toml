@@ -11,7 +11,7 @@
 [[main]]
   name = "Director"
   url = "director/"
-    url = "#awards"
+    url = "director/awards"
   weight = 70
 
 [[main]]
