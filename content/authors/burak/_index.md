@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Esef Berfu Şentürk
+title: Burak Ahmet ÖZDEN
 
 # Username (this should match the folder name)
 authors:
-- esef
+- burak
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role:  Electrical and Electronics Engineer
+role:  Junior Year Electrical and Electronics Engineer Student
 
 # Organizations/Affiliations
 organizations:
@@ -24,12 +24,13 @@ interests:
 - Signal Processing
 - Modulation Theory
 - Wireless Communication
+- Deep Learning
 
 education:
   courses:
   - course: B.S 
     institution: Istanbul Medeniyet University
-    year: 2020
+    year: 2021
 
 
 # Social/Academic Networking
@@ -39,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:anilgurses@ieee.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=
+  link: https://scholar.google.co.uk/citations?user=rkDTDH8AAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
