@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Electrical and Electronics Engineer 
+role: PhD Student, Electrical and Electronics Engineer 
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Digital Signal Processing
 
-interests:
+Research interests:
 - Signal Processing
 - Modulation Theory
 - Wireless Communication

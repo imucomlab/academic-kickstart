@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:  Junior Year Electrical and Electronics Engineer Student
+role:  PhD Student, Electrical and Electronics Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Digital Signal Processing
 
-interests:
+Research interests:
 - Signal Processing
 - Modulation Theory
 - Wireless Communication
