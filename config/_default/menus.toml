@@ -9,8 +9,8 @@
   weight = 10
   
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Director"
+  url = "director/"
   weight = 70
 
 [[main]]
