@@ -16,18 +16,20 @@ title = "Professional Activities"
 ## AWARDS & HONORS
 
 * 2018: Best Paper Award, _2018 41st International Conference on Telecommunications and Signal Processing (TSP 2018)_
-* 2016: TUBITAK Yurt ici Doktora Bursu
+* 2016: TÜBITAK Yurt ici Doktora Bursu
 * 2007: B.Sc. Degree with High Honors, Istanbul University
 
 ## UNIVERSITY SERVICE
 
-* Vice Dean, _Faculty of Engineering and Natural Sciences: 2021-…_
+* Vice Dean, _Faculty of Engineering and Natural Sciences: 2021-2024_
+* Head of Department, _Astronautical Engineering Department, Istanbul Medeniyet University: 2021-2024._
 * Head of Department, _Astronautical Engineering Department, Istanbul Medeniyet University: 2017-2020._
-* Deputy Chairperson, _Electrical & Electronics Engineering Department, Istanbul Medeniyet University.: 2017-…_
+* Deputy Chairperson, _Electrical & Electronics Engineering Department, Istanbul Medeniyet University.: 2017-2023_
 
 ## WORK EXPERIENCE
 
-* 2017-...: _Asst. Prof. Dr., Istanbul Medeniyet University._
+* 2022-...: _Assoc. Prof. Dr., Istanbul Medeniyet University._
+* 2017-2022: _Asst. Prof. Dr., Istanbul Medeniyet University._
 * 2016-2017: _Asst. Prof. Dr., Maltepe University._
 * 2007-2016: _Research Asst., Maltepe University._
 
