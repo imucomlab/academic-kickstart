@@ -74,6 +74,10 @@ subtitle = ""
 
 ## **Journal Papers** (SCI/SCI-E)
 
+* [J-19] F. Bayar, O. Salan, H. Ilhan,  **E. Aydin**,  "Space-Time Block Coded Reconfigurable Intelligent Surface-Based Received Spatial Modulation," _IEEE Transactions on Mobile Computing_, vol. 1, no. 1, pp. 1-11, 2024.
+
+* [J-18] F. Cogen, B. A. Ozden,  **E. Aydin**,  N. Kabaoglu, "Reconfigurable Intelligent Surface-Empowered Code Index Modulation for High-Rate SISO Systems," _IEEE Transactions on Cognitive Communications and Networking_, vol. 1, no. 1, pp. 1-11, 2024.
+
 * [J-17] S. A. Colak, **E. Aydin**, S. Gundem, Y. Celik, E. Basar,  "Pulse Index Modulation," _IEEE Communications Letters_,  vol. 1, no. 1, pp. 1 - 5, Jul. 2024
 
 * [J-16] B. A. Ozden, **E. Aydin**, F. Cogen, "`Reconfigurable Intelligent Surface Aided Spatial Media-Based Modulation," _IEEE Transactions on Green Communications and Networking_, vol. 7, no. 4, pp.1971-1980, 2023.
