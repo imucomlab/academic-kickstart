@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Proffesor  Electrical and Electronics Engineering Faculty
+role: Associate Proffesor \\  Electrical and Electronics Engineering
 
 # Organizations/Affiliations
 organizations:
