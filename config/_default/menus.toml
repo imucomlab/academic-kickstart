@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Professional Activities"
-  url = "#awards"
+  url = "activities/"
   weight = 30
   
 [[main]]
