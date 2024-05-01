@@ -1,16 +1,3 @@
-+++
-widget = "blank"
-headless = true  # This file represents a page section.
-active = true
-
-weight = 68
-title = "Professional Activities"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
-+++
 
 
 ## AWARDS & HONORS
