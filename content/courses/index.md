@@ -1,6 +1,6 @@
 ---
 title: Dersler
-summary: Derslere aıt izlenceler asagıdadır.
+summary: Derslere ait izlenceler asagidadir.
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
