@@ -25,12 +25,12 @@
   
 [[main]]
   name = "PROJECTS"
-  url = "director/"
+  url = "projects/"
   weight = 30
 
 [[main]]
   name = "PUBLICATIONS"
-  url = "activites/"
+  url = "publications2/"
   weight = 50
   
 [[main]]
