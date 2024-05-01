@@ -68,11 +68,13 @@ subtitle = ""
 +++
 
 ## **Preprints**
-* [P-01] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _arXiv:2101.09340_, 2021..
+* [P-01] S. A. Colak, **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Joint Pulse Index and Spatial Modulation," _arXiv:2101.09340_, 2021..
 
 * [P-02]  **E. Aydin**, Y. Celik, Y. Acar, E. Basar,  "Pulse Index Modulation," _arXiv:2101.09340_, 2021..
 
 ## **Journal Papers** (SCI/SCI-E)
+
+* [J-17] S. A. Colak, **E. Aydin**, S. Gundem, Y. Celik, E. Basar,  "Pulse Index Modulation," _IEEE Communications Letters_,  vol. 1, no. 1, pp. 1 - 5, Jul. 2024
 
 * [J-16] B. A. Ozden, **E. Aydin**, F. Cogen, "`Reconfigurable Intelligent Surface Aided Spatial Media-Based Modulation," _IEEE Transactions on Green Communications and Networking_, vol. 7, no. 4, pp.1971-1980, 2023.
 
